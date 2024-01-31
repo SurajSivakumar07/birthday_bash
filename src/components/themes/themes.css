@@ -1,0 +1,33 @@
+.themes-wrap {
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; */
+  display: grid;
+  grid-template-columns: auto auto auto;
+  align-items: center;
+  /* justify-content: space-around; */
+  margin-top: 30px;
+  margin-left: 70px;
+}
+.title-centre- {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 0.5px solid black;
+}
+
+.themes-wrap img {
+  width: 400px;
+  height: 400px;
+}
+.for-girls {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: cursive;
+  opacity: 0.3;
+}
+
+.Something- {
+  margin-top: 40px;
+}

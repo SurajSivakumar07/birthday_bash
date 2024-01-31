@@ -1,0 +1,30 @@
+.search-bar-wrap input {
+  border: 0.5px solid black;
+  width: 200px;
+  height: 40px;
+  border-radius: 2cm;
+  padding: 5px;
+  margin-left: 30%;
+  text-align: center;
+}
+
+.title-them {
+  font-family: cursive;
+}
+
+.search-bar-wrap {
+  display: flex;
+  position: relative;
+  padding: 10px;
+}
+
+.search-icon {
+  font-size: 20px;
+  position: absolute;
+  left: 240px;
+  margin-top: 10px;
+}
+
+.search-icon i {
+  opacity: 0.4;
+}

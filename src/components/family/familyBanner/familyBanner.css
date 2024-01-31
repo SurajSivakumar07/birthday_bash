@@ -1,0 +1,10 @@
+.family-banner {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.family-banner img {
+  width: 90%;
+  height: 100vh;
+}

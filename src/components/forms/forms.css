@@ -1,0 +1,17 @@
+.forms {
+  border: 9px solid black;
+  padding: 5pc;
+
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 50px;
+}
+textarea {
+  width: 100%;
+  background-color: white;
+  color: black;
+}
+
+.derails---s {
+  border-bottom: 2px solid black;
+}

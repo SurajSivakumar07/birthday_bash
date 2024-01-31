@@ -1,0 +1,10 @@
+.process-wrap {
+  display: flex;
+  justify-content: center;
+}
+button {
+  cursor: pointer;
+}
+.upcoming button {
+  margin-left: 200px;
+}
