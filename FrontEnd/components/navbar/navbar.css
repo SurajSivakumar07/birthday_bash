@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@700&family=Honk&family=Open+Sans:wght@600&family=Poppins:wght@100;200&family=Raleway:ital,wght@1,300&family=Roboto:wght@100&family=Rubik+Glitch+Pop&family=Sixtyfour&family=Vina+Sans&display=swap");
+.nav-bar-wrap {
+}
+
+.nav-section {
+  font-family: "Sixtyfour", sans-serif;
+  font-size: 10px;
+}
+
+.title {
+  font-family: "Rubik Glitch Pop", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav-bar-contents {
+  color: white;
+
+  background-color: black;
+}
+
+.top-nav-wrap {
+  display: flex;
+  justify-content: space-around;
+
+  padding: 20px;
+
+  width: 100%;
+  padding: 10px;
+}
+
+.nav-section {
+  display: flex;
+}
+
+.nav-section h3 {
+  margin-left: 20px;
+}
+
+/* bottom NavBar */
+
+.bottom-nav-items {
+  /* border: 2px solid black; */
+
+  color: white;
+  opacity: 0.8;
+}
+
+.bottom-nav-wrap ul {
+  display: flex;
+}
+
+.bottom-nav-wrap li {
+  margin: 20px;
+  margin-left: 15%;
+  list-style: none;
+  font-family: "Poppins", sans-serif;
+}
+.bottom-nav-wrap a {
+  text-decoration: none;
+  color: black;
+}
+
+.dropdown-nav {
+  position: absolute;
+  margin-left: 88%;
+  background-color: white;
+}
+
+.popp-- {
+  display: flex;
+  justify-content: space-around;
+}
+
+.bottom-nav-items a {
+  cursor: pointer;
+}

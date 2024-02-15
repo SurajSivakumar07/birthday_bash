@@ -1,0 +1,10 @@
+.side-bar ul {
+  display: flex;
+
+  justify-content: center;
+}
+
+.side-bar li {
+  margin: 40px;
+  list-style: none;
+}

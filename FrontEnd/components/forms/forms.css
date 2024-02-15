@@ -1,0 +1,63 @@
+/* .forms {
+  border: 9px solid black;
+  padding: 5pc;
+
+
+  margin-left: 20%;
+  margin-top: 50px;
+}
+textarea {
+  width: 100%;
+  background-color: white;
+  color: black;
+}
+
+.derails---s {
+  border-bottom: 2px solid black;
+} */
+.forms {
+  width: 50%;
+  margin-left: 20%;
+  margin-top: 50px;
+
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.derails---s {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #2980b9;
+}
+
+.forms .MuiTextField-root {
+  margin-bottom: 12px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.forms textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+
+.forms .MuiButton-root {
+  background-color: #2980b9;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+textarea {
+  background-color: white;
+  color: black;
+}
